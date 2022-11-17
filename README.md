@@ -1,5 +1,4 @@
 # enable google bbr on ubuntu 16.04
-5715e31e-9f87-4e02-a283-2a46f472faf3
 
 sudo apt update
 
